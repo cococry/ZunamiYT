@@ -1,0 +1,6 @@
+[submodule "ZunamiYT/thirdparty/glfw"]
+	path = ZunamiYT/thirdparty/glfw
+	url = https://github.com/cococry/glfw
+[submodule "ZunamiYT/thirdparty/Glad"]
+	path = ZunamiYT/thirdparty/Glad
+	url = https://github.com/cococry/Glad
